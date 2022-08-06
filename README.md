@@ -18,7 +18,7 @@ Project flow:
 
 main sceern:
 
-Map of UK with station masker
+Map of UK with station markers
 click on station of your chooes 
 
 second Screen:
